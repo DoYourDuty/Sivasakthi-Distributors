@@ -1,0 +1,25 @@
+gitignore
+# dependencies
+/node_modules/
+
+# build artifacts
+/dist/
+/build/
+/out/
+
+# temporary files
+*.log
+*.tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+.idx
+
+# Package managers specific files
+package-lock.json
+yarn.lock
